@@ -5,7 +5,7 @@
 
 <h3 align = "left"> Connect with me: </h3>
 <p align = " izquierda ">
-
+<a href="https://linkedin.com/in/héctor crespo puig" target="blank"> <img align =" center "src =" https://cdn.jsdelivr.net/npm/ simple-icons@3.0.1/icons/linkedin.svg "alt =" héctor crespo puig "height =" 30 "width =" 40 "/> </ a>
 <a  href=" https://www.facebook.com/hector.crespopuig" target="blank"> <img align = "center" src = http://i.imgur.com/P3YfQoD.pngalt =" héctor crespuig "height =" 30 "width =" 40 "/> </a>
 <a href =" https://instagram.com/crespuig "target =" blank " > <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt = "crespuig" height = "30" width = " 40 "/> </a>
 </p>
