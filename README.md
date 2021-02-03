@@ -1,7 +1,7 @@
 <h1 align = "center"> Hola 👋, soy Héctor Crespo </h1>
 <h3 align = "center"> Desarrollador de aplicaciones multiplataforma. </h3>
 
-- 📫 Cómo comunicarse conmigo ** Puede comunicarse conmigo en [ Gmail] (hectorcrespuig@gmail.com), [Instagram] (https://www.instagram.com/crespuig/), [Facebook] (https://www.facebook.com/hector.crespopuig), [LinkedIn] (https://www.linkedin.com/in/h%C3%A9ctor-crespo-puig-b22141b9/).**
+- 📫 Puede comunicarse conmigo en [ Gmail] (hectorcrespuig@gmail.com), [Instagram] (https://www.instagram.com/crespuig/), [Facebook] (https://www.facebook.com/hector.crespopuig), [LinkedIn] (https://www.linkedin.com/in/h%C3%A9ctor-crespo-puig-b22141b9/).**
 
 <h3 align = "left"> Conéctese conmigo: </h3>
 <p align = " izquierda ">
