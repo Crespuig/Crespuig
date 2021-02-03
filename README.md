@@ -5,7 +5,7 @@
 
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-crespo-puig-b22141b9/)
-- [FaceBook](https://www.facebook.com/hector.crespopuig)
+- [Facebook](https://www.facebook.com/hector.crespopuig)
 - [Instagram](https://www.instagram.com/crespuig/)
 
 <h3 align =" left "> Idiomas y herramientas: </h3>
