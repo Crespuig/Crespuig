@@ -1,6 +1,6 @@
 <h1 align = "center"> System.out.print("Hello World 👋, I'm Héctor") </h1>
-<h3 align = "center"> Software developer. </h3>
-<h3 align = "center"> Backend. </h3>
+<h3 align = "center" > :zap:Software developer. </h3>
+<h3 align = "center"> :zap:Backend. </h3>
 
 - 📫 You can reach me on hectorcrespuig@gmail.com.
 
