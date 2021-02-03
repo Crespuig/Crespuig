@@ -1,7 +1,7 @@
 <h1 align = "center"> System.out.print(Hello World 👋, I'm Hector Crespo) </h1>
 <h3 align = "center"> Multiplatform application developer. </h3>
 
-- 📫 You can reach me on hectorcrespuig@gmail.com <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+- 📫 You can reach me on hectorcrespuig@gmail.com.
 
 <h3 align = "left"> Connect with me: </h3>
 <p align = " izquierda ">
