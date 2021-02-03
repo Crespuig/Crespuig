@@ -3,7 +3,7 @@
 
 - 📫 You can reach me on hectorcrespuig@gmail.com.
 
-<h3 align = "left"> Connect with me: </h3>
+Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-crespo-puig-b22141b9/)
 - [FaceBook](https://www.facebook.com/hector.crespopuig)
 - [Instagram](https://www.instagram.com/crespuig/)
