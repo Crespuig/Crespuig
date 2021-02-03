@@ -5,8 +5,8 @@
 
 <h3 align = "left"> Conéctese conmigo: </h3>
 <p align = " izquierda ">
-<a href=" https://linkedin.com/in/héctor crespo puig" target="blank"> <img align =" center "src =" https://cdn.jsdelivr.net/npm/ simple-icons@3.0.1/icons/linkedin.svg "alt =" héctor crespo puig "height =" 30 "width =" 40 "/> </ a>
-<a href=" https://fb.com/héctor crespuig" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0. 1 / icons / facebook.svg "alt =" héctor crespuig "height =" 30 "width =" 40 "/> </a>
+<a href=" https://www.linkedin.com/in/h%C3%A9ctor-crespo-puig-b22141b9/" target="blank"> <img align =" center "src =" https://cdn.jsdelivr.net/npm/ simple-icons@3.0.1/icons/linkedin.svg "alt =" héctor crespo puig "height =" 30 "width =" 40 "/> </ a>
+<a href=" https://www.facebook.com/hector.crespopuig" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0. 1 / icons / facebook.svg "alt =" héctor crespuig "height =" 30 "width =" 40 "/> </a>
 <a href =" https://instagram.com/crespuig "target =" blank " > <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt = "crespuig" height = "30" width = " 40 "/> </a>
 </p>
 
