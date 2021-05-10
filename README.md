@@ -1,5 +1,3 @@
-<h1 align = "center"> Hi 👋, I'm Hector! </h1>
-
 - 📫 You can reach me on hectorcrespuig@gmail.com.
 
 Connect with me:
