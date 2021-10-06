@@ -1,4 +1,5 @@
 - 📫 You can reach me on hectorcrespuig@gmail.com.
+- Software developer on Indra.
 
 Connect with me:
 - [Instagram](https://www.instagram.com/crespuig/)
