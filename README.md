@@ -22,3 +22,4 @@ Connect with me:
 <a href =" https : //www.qt.io/ "target =" _ blank "> <img src ="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"alt =" qt "width = "40" height = "40" /> </a> 
 <a href="https://spring.io/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg"alt =" primavera "width =" 40 "height =" 40 "/> </a> </p>
 <a href="https://spring.io/" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"alt =" primavera "width =" 40 "height =" 40 "/> </a> </p>
+<a href="https://spring.io/" target="_blank"> <img src = "https://img2.freepng.es/20180423/xbe/kisspng-sencha-touch-ext-js-mobile-app-development-logo-5add62368107f2.5913458015244580385285.jpg"alt =" primavera "width =" 40 "height =" 40 "/> </a> </p>
