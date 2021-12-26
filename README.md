@@ -20,7 +20,7 @@ Connect with me:
 <a href="https://www.oracle.com/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"alt = "oracle" width = "40" height = "40" /> </a> 
 <a href="https://www.python.org" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt =" python "width =" 40 "height =" 40 "/> </a> 
 <a href =" https : //www.qt.io/ "target =" _ blank "> <img src ="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"alt =" qt "width = "40" height = "40" /> </a> 
-<a href="https://spring.io/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg"alt =" primavera "width =" 40 "height =" 40 "/> </a> </p>
+<a href="https://spring.io/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg"alt =" primavera "width =" 40 "height =" 40 "/> </a>
 <a href="https://spring.io/" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"alt =" primavera "width =" 40 "height =" 40 "/> </a>
 <a href="https://spring.io/" target="_blank"> <img src = "https://blog.toright.com/wp-content/uploads/2013/03/Sencha-SDK-Tools-icon.png"alt =" primavera "width =" 40 "height =" 40 "/> </a>
 <a href="https://spring.io/" target="_blank"> <img src = "https://www.chollosocial.com/media/data/2020/10/1602413974-300x300.jpg"alt =" primavera "width =" 40 "height =" 40 "/> </a></p>
