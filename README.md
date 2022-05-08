@@ -3,7 +3,6 @@
 
 Connect with me:
 - [Instagram](https://www.instagram.com/crespuig/)
-- [Facebook](https://www.facebook.com/hector.crespopuig)
 - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-crespo-puig-b22141b9/)
 
 <h3 align =" left "> Languages and tools: </h3>
