@@ -2,8 +2,8 @@
 - Ful-stack developer on Indra.
 
 Connect with me:
-- [Instagram](https://www.instagram.com/crespuig/)
 - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-crespo-puig-b22141b9/)
+- [Instagram](https://www.instagram.com/crespuig/)
 
 <h3 align =" left "> Languages and tools: </h3>
 <p align = "left"> 
