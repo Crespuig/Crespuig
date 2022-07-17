@@ -1,5 +1,5 @@
 - 📫 You can reach me on hectorcrespuig@gmail.com.
-- Ful-stack developer on Indra.
+- Software developer on Indra.
 
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-crespo-puig-b22141b9/)
